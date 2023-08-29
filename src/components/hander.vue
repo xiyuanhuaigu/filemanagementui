@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container1">
     <div class="left">
         <a>文件收集系统</a>
     </div>
@@ -13,7 +13,8 @@
 <script setup lang="ts"></script>
 
 <style scoped lang="scss">
-.container{
+
+.container1{
     background-image: linear-gradient( 135deg, #CE9FFC 10%, #7367F0 100%);
     height: 50px;
     display: flex;

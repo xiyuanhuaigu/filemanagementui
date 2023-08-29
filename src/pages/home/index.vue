@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <hander></hander>
     <div class="top">
       <div class="binlist">
         <div class="binli">
@@ -25,6 +26,7 @@
 
 <script setup lang="ts">
 import upload from './upload/index.vue'
+import hander from '@/components/hander.vue';
 
 </script>
 
